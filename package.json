@@ -11,7 +11,7 @@
     "i18next-browser-languagedetector": "^3.0.3",
     "i18next-xhr-backend": "^3.1.1",
     "install": "^0.13.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.26",
     "npm": "^6.10.3",
     "points-cluster": "^0.1.4",
